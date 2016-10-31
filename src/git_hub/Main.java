@@ -18,6 +18,7 @@ public class Main {
         System.out.println("det virker");
         System.out.println("helt sikkert");
         System.out.println("moutaz ");
+        System.out.println("ny ting");
     }
     
 }
